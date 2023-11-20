@@ -3,11 +3,11 @@ footer {
     height: 60px;
     width: 100%;
     border-top: 1px #CCCCCC;
+    position: fixed;
+    bottom: 0;
 }
 
 .common-style footer p {
-    margin: auto;
-    align-content: center;
-    width: 20%;
+    text-align: center;
     padding: 20px 0px;
 }
