@@ -2,12 +2,12 @@ footer {
     background-color: white;
     height: 60px;
     width: 100%;
-    border-top: 1px #CCCCCC;
+    border-top: 1px solid #CCCCCC;
     position: fixed;
     bottom: 0;
 }
 
 .common-style footer p {
     text-align: center;
-    padding: 20px 0px;
+    padding: 5px 0px;
 }
